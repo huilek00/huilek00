@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-🎓 Computer Science graduate (First Class Honours) from Universiti Sains Malaysia, majoring in Intelligent Computing with a minor in Mathematics.  
+🎓 I'm Hui Lek, a Computer Science graduate (First Class Honours) from Universiti Sains Malaysia, majoring in Intelligent Computing with a minor in Mathematics.  
 
 💻 Experienced in **software development, data analytics, machine learning, and QA testing** through award-winning projects and internships. My portfolio includes:  
 - 🥇 **UniEats** – Gold Award-winning full-stack recipe recommender system
